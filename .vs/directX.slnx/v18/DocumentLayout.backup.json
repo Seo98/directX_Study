@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\directX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC3A8F91-56FF-4DC6-9DD8-5B972A3BA1D4}|directX\\directX.vcxproj|C:\\Users\\user\\source\\repos\\directX\\directX\\asdfasdf.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC3A8F91-56FF-4DC6-9DD8-5B972A3BA1D4}|directX\\directX.vcxproj|solutionrelative:directX\\asdfasdf.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "asdfasdf.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\directX\\directX\\asdfasdf.cpp",
+              "RelativeDocumentMoniker": "directX\\asdfasdf.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\directX\\directX\\asdfasdf.cpp",
+              "RelativeToolTip": "directX\\asdfasdf.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T04:14:59.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
