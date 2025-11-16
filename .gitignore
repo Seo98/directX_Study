@@ -1,0 +1,5 @@
+# Visual Studio Cache files
+*.ipch
+*.VC.db
+*.VC.opendb
+.ipch/
